@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "greeks"]
+	path = greeks
+	url = https://github.com/ahudde/greeks
+	shallow = true
+	registered = true
